@@ -15,7 +15,7 @@ uv init -p 3.13
 
 安装基础依赖
 ```
-uv add langchain langchain-openai uvicorn langchain-community dashscope -i https://pypi.tuna.tsinghua.edu.cn/simple
+uv add langchain langchain-openai uvicorn langchain-community fastapi dashscope -i https://pypi.tuna.tsinghua.edu.cn/simple
 ```
 
 安装环境管理工具
