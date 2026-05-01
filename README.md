@@ -50,6 +50,9 @@ LANGSMITH_PROJECT=xxxx
     },
     "env": ".env"
 }
+
+运行
+uv run langgraph dev
 ```
 
 
